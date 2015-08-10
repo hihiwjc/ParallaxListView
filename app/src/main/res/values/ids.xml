@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- MainLayout IDs -->
+    <item type="id" name="listView_main"/>
+    <item type="id" name="listView_header_image"/>
+    <item type="id" name="listView_item"/>
+</resources>
